@@ -6,6 +6,15 @@ The program generates a snake game in your Unix machine terminal window. The goa
 
 The game supports traversing through borders, as the snake can go through the borders of the window to emerge at the other end. The only cause of 'Game Over!' is the snake crawling into itself.
 
+'''sh
+#############
+#  ooo      #
+#           #
+#       x   #
+#           #
+#############
+'''
+
 ## Usage and Requirements
 First generate the executable:
 ```sh
