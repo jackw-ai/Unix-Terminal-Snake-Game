@@ -32,6 +32,6 @@ To quit the game or restart, press `q`, and follwing the prompt on the screen, p
 ## Rules of the Game
 The snake can traverse anywhere, in direction (up, down, left, right) provided it doesn't crawl into itself.
 
-## Future Features
+## Possible Updates
 Add support for leaderboards, game pausing, more robust menusystem and possibly multiplayer? Finer tuning of difficulty and graphic design.
 
